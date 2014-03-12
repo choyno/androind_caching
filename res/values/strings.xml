@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">FileReadWriteCache</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Cache Directory Demo</string>
+    <string name="str_btn_save">Save</string>
+    <string name="str_hnt_et_content">Enter Content here</string>
+ 
+</resources>
